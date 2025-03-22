@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo0ODByaXJzbG9jemYyYXN6aHd5NmpteGwyeHpzNWxiNWJxcjlydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif" width="200">
   <br />
   <strong>Hi there!</strong>
-  I'm <a href="https://github.com/vietngyn">Viet</a>.
+  I'm <a href="https://williamnguyen752.github.io">Viet</a>.
 </p>
 <br /><hr />
 
